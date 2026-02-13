@@ -1,0 +1,12 @@
+Article_ID,Article,Industry
+"""1000001""",Standardteile aus Aluminium,Metals
+"""1000002""",Blechteile,metals
+"""1000003""",Rohmetalle,Metals
+"""1000004""",Elektronische Standardteile,Electronics
+"""1000005""",Technische Produkte,electronics
+"""1000006""",Displays,Electronics
+"""1000007""",Kunststoffteile,Plastics
+"""1000008""",Dichtungen,Plastics
+"""1000009""",Ringe,plastics
+"""1000010""",thermoplaste,Plastics
+"""1000011""",Verpackungsfolie,plastics
