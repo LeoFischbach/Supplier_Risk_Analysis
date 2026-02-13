@@ -115,3 +115,18 @@ Potential extensions:
 4. Risk Dimension Engineering
 5. Composite Risk Score (0-100)
 6. Decision Support
+
+## 🔧 Requirements
+
+Python 3.10+
+
+Required packages:
+
+- pandas
+- numpy
+- jupyter
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
